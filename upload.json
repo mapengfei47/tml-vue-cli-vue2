@@ -1,0 +1,13 @@
+{
+  "upload_dir": "dist/",
+  "pages": [
+    {
+      "page_name": "index",
+      "page_path": [
+        "js/vue-vendors.634d2512.js",
+        "css/index.601d2ada.css",
+        "js/index.2662f9d9.js"
+      ]
+    }
+  ]
+}
